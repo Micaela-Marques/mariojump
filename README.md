@@ -3,6 +3,9 @@
 
 </p>
 
+<p>Game Over ![image](https://github.com/Micaela-Marques/mariojump/assets/82909584/4f560fce-3563-4d6f-98b5-689bc614aa24)
+</p>
+
 
 
 <!--  -->
