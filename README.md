@@ -3,7 +3,8 @@
 
 </p>
 
-<p>Game Over! 💀
+ <p align= "center"
+   >Game Over! 💀
 </p>
  <img alt="Projeto" src="./colisão.png">
 
