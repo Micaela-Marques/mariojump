@@ -1,5 +1,5 @@
 <p align="center"> 
-  -**Mario_Jump**
+  -**MarioJump**
   <img alt="Projeto" src="./cover.png.png">
 
 </p>
