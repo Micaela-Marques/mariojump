@@ -1,5 +1,5 @@
 <p align="center"> 
-  -**MarioJump**
+  <h1 align = "center">Mario Jump</h1>
   <img alt="Projeto" src="./cover.png.png">
 
 </p>
